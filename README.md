@@ -89,11 +89,10 @@ Matlab scripts that can generate additional data.
 
 ## Results
 
-Video: [Output Video ](https://youtu.be/FY-M3igAYSk) 
-<iframe width="711" height="400" src="https://www.youtube.com/embed/FY-M3igAYSk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+Video: [Output Video on YouTube ](https://youtu.be/FY-M3igAYSk) 
 
 Output with Dataset-1:
-![ ](images/output_dataset1.png  "Output with Dataset-1")
+[![](images/output_dataset1.png  "Output with Dataset-1")] (https://www.youtube.com/watch?v=FY-M3igAYSk "Click to Play on YouTube")
 
 Output with Dataset-2:
 ![ ](images/output_dataset2.png  "Output with Dataset-2")
