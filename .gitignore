@@ -1,3 +1,7 @@
+#Eclipse Project Files
+.cproject
+.project
+.settings/
 # silly macOS
 .DS_Store
 
