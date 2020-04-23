@@ -92,7 +92,7 @@ Matlab scripts that can generate additional data.
 Video: [Output Video on YouTube ](https://youtu.be/FY-M3igAYSk) 
 
 Output with Dataset-1:
-[![](images/output_dataset1.png  "Output with Dataset-1")] (https://www.youtube.com/watch?v=FY-M3igAYSk "Click to Play on YouTube")
+[![ ](images/output_dataset1.png)](https://www.youtube.com/watch?v=FY-M3igAYSk "Click to Play on YouTube")
 
 Output with Dataset-2:
-![ ](images/output_dataset2.png  "Output with Dataset-2")
+![ ](images/output_dataset2.png)
